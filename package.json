@@ -1,0 +1,16 @@
+{
+  "name": "hub_content_scrape",
+  "version": "1.0.0",
+  "main": "migrate.js",
+  "scripts": {
+    "start": "node migrate.js help",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sync-request": "^6.1.0",
+    "yargs": "^15.3.1"
+  }
+}
